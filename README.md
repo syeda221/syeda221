@@ -26,7 +26,7 @@
 ## 📬 How to reach me  
 - 📧 Email: **qunootzehra21@gmail.com**  
 - 📱 Phone: **+92 336 3116155**  
-- 💼 linkedIn:(https://linkedin.com/in/qunoot-zehra](https://www.linkedin.com/in/qunoot-zehra-04454b361/) 
+- 💼 linkedIn:(https://www.linkedin.com/in/qunoot-zehra-04454b361/)
 
 ---
 
