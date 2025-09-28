@@ -48,8 +48,8 @@
 
 ---
 
-## 🔗 Portfolio & Projects  
-Coming soon! 🚀  
+## 🔗 Portfolio 
+syeda221.github.io/my_portfolio/
 
 ---
 
