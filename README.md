@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 Portfolio 
-syeda221.github.io/my_portfolio/
+https://syeda221.github.io/my_portfolio/
 
 ---
 
