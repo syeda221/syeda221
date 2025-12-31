@@ -49,7 +49,7 @@
 ---
 
 ## 🔗 Portfolio 
-https://syeda221.github.io/my_portfolio/
+https://qunoot-zehra.netlify.app/
 
 ---
 
