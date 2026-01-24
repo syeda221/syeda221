@@ -73,6 +73,3 @@ Besides coding, I’ve been learning **Kung Fu** since childhood 🥋💪
 
 ---
 
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=qunoot-zehra&show_icons=true&theme=radical)  
-
