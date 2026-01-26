@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="wave" width="140"/>
 </p>
 
-<h1 align="center">Qunoot Zehra — Frontend Developer</h1>
+<h1 align="center">Qunoot Zehra — Full stack Developer</h1>
 <p align="center">Responsive Frontend Developer • Learning PHP &amp; Laravel • Pakistan</p>
 
 <p align="center">
