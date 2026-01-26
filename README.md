@@ -1,75 +1,38 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<h1 align="center">Hi 👋, I'm Syeda Qunoot Zehra</h1>
-<h3 align="center">🌱 Frontend Developer & Beginner Backend Developer from Pakistan</h3>
-
----
-
-### 🚀 About Me
-- 💻 Passionate about building **responsive and user-friendly websites**  
-- 🌐 Skilled in **HTML, CSS, JavaScript, Bootstrap**  
-- 🖥️ Currently learning **PHP & Laravel** for backend development  
-- 🎨 Comfortable with **Canva & Microsoft Office**  
-- 🤝 Open to collaborating on **beginner-friendly projects** and internships  
-
----
-
-## 🛠️ Languages & Tools
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Canva" width="50" height="50"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Microsoft Office" width="50" height="50"/>
-  </a>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="wave" width="140"/>
 </p>
 
+<h1 align="center">Qunoot Zehra — Frontend Developer</h1>
+<p align="center">Responsive Frontend Developer • Learning PHP &amp; Laravel • Pakistan</p>
+
+<p align="center">
+  <a href="https://qunoot-zehra.netlify.app" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-0A66C2?style=for-the-badge&logo=netlify&logoColor=white"></a>
+  <a href="mailto:qunootzehra21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-qunootzehra21%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/qunoot-zehra-04454b361/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Syeda%20Qunoot%20Zehra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+## About
+I build responsive, accessible websites using HTML, CSS and JavaScript. Currently building full-stack projects with PHP &amp; Laravel.
+
+## Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva" style="height:56px;margin:6px"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-F25022?style=flat&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" style="height:56px;margin:6px"/>
+</p>
+
+## Projects
+- E-commerce (in progress) — PHP &amp; Laravel, CRUD + admin panel  
+- Portfolio — Responsive site: https://qunoot-zehra.netlify.app/
+
+## Contact
+Email: qunootzehra21@gmail.com · Phone: +92 336 3116155
+
 ---
-
-## 🌐 Portfolio
-Check out my work: [https://qunoot-zehra.netlify.app/](https://qunoot-zehra.netlify.app/)  
-
----
-
-## 📬 Contact Me
-- 📧 Email: **qunootzehra21@gmail.com**  
-- 📱 Phone: **+92 336 3116155**  
-- 💼 LinkedIn: [https://www.linkedin.com/in/qunoot-zehra-04454b361/](https://www.linkedin.com/in/qunoot-zehra-04454b361/)  
-
----
-
-## ✨ Fun Fact
-Besides coding, I’ve been learning **Kung Fu** since childhood 🥋💪  
-
----
-
-## 💡 Currently Working On
-- A **full-featured e-commerce website** in PHP & Laravel  
-- Implementing **CRUD operations** and **admin panel**  
-- Learning to deploy **dynamic, real-world web applications**  
-
----
-
+Kung Fu practitioner 🥋 — discipline that helps me ship clean code.
