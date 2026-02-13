@@ -28,7 +28,7 @@ I build responsive, accessible websites using HTML, CSS and JavaScript. Currentl
 </p>
 
 ## Projects
-- E-commerce (in progress) — PHP &amp; Laravel, CRUD + admin panel  
+- E-commerce (in progress) — PHP &amp;, CRUD + admin panel  
 - Portfolio — Responsive site: https://qunoot-zehra.netlify.app/
 
 ## Contact
