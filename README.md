@@ -74,21 +74,6 @@ I'm a self-motivated developer with a passion for building elegant solutions to 
 
 <div align="center">
 
-### 🏢 **Enterprise Solutions**
-
-</div>
-
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|-----------|-----------|
-| 🛍️ **Pakistan Chicken** | E-commerce platform for poultry business | Laravel, Blade, MySQL | [View](https://github.com/syeda221/pakistan_chicken) |
-| 👗 **GlamPak** | Premium fashion e-commerce website | HTML, CSS, JavaScript | [View](https://github.com/syeda221/GlamPak) |
-| 📚 **Book Depot** | Digital library management system | Laravel, Blade | [View](https://github.com/syeda221/book-depot) |
-| 💅 **Salon Management System** | Complete salon business solution | PHP, CSS, MySQL | [View](https://github.com/syeda221/salon-management_system) |
-| 📊 **TrendHub** | Trend analytics & management platform | Laravel, Blade | [View](https://github.com/syeda221/trendhub) |
-
-<div align="center">
-
-### 💼 **Business Applications**
 
 </div>
 
@@ -98,7 +83,7 @@ I'm a self-motivated developer with a passion for building elegant solutions to 
 | 🏭 **Stock Management** | Inventory tracking system | Laravel, Blade | [View](https://github.com/syeda221/stock) |
 | 🔧 **Management System** | General CRUD operations framework | PHP, MySQL | [View](https://github.com/syeda221/management-system) |
 | ☀️ **Solar Naksh** | Solar energy project management | Laravel, Blade | [View](https://github.com/syeda221/solar-naksh) |
-| 🔌 **Petrolium** | Oil & gas industry management | Laravel, Blade | [View](https://github.com/syeda221/petrolium) |
+
 
 <div align="center">
 
@@ -229,11 +214,9 @@ I'm always excited to:
 
 - 🌟 Built 25+ full-stack applications
 - 🎓 Mastered PHP & Laravel ecosystem
-- 🚀 Completed professional internship @ Prodigy
 - 💼 Developed business-critical systems
 - 🤝 Active open-source contributor
 - 📚 Passionate about knowledge sharing
-- 🥋 Kung Fu practitioner - discipline that helps ship clean code
 
 ---
 
